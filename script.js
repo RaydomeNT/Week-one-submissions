@@ -48,7 +48,7 @@ const pet = {
   pet.drink();
 //Activity 3 Day 2
 console.group("Activity 2 Day 2")
-let password = "aidan1234"
+let password = "password"
 
 if (password.length < 8)
 {
